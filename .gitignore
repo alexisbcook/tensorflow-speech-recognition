@@ -20,3 +20,7 @@ spoken_numbers_pcm
 spoken_words/
 warp-ctc/notes.txt
 notes.txt
+.DS_Store
+.ipynb_checkpoints/
+layer/
+tensorpeers/
